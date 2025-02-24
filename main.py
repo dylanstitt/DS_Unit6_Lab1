@@ -27,7 +27,6 @@ def main():
     print(f'Int List: {l2} = {sum2}')
     print(f'Int List: {l3} = {sum3}')
 
-
 if __name__ == '__main__':
     os.system('cls' if os.name == 'nt' else 'clear')
     main()
